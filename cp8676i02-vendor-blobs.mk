@@ -558,7 +558,6 @@ PRODUCT_COPY_FILES += \
     vendor/coolpad/cp8676i02/proprietary/system/lib64/libmmsdkservice.feature.so:system/lib64/libmmsdkservice.feature.so \
     vendor/coolpad/cp8676i02/proprietary/system/lib/libfeatureiodrv.so:system/lib/libfeatureiodrv.so \
     vendor/coolpad/cp8676i02/proprietary/system/lib64/libfeatureiodrv.so:system/lib64/libfeatureiodrv.so \
-    vendor/coolpad/cp8676i02/proprietary/system/lib64/libslfpauth.a:system/lib64/libslfpauth.a \
     vendor/coolpad/cp8676i02/proprietary/system/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/coolpad/cp8676i02/proprietary/system/lib64/libcameraservice.so:system/lib64/libcameraservice.so \
     vendor/coolpad/cp8676i02/proprietary/system/lib64/libMtkOmxAdpcmDec.so:system/lib64/libMtkOmxAdpcmDec.so \
